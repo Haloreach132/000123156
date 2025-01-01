@@ -3662,7 +3662,6 @@
 "og" = (
 /obj/structure/lattice,
 /obj/structure/grille,
-/obj/structure/grille,
 /turf/space,
 /area/space)
 "oh" = (
@@ -5166,9 +5165,6 @@
 	},
 /obj/machinery/atmospherics/pipe/manifold/hidden/supply,
 /obj/machinery/atmospherics/pipe/manifold/hidden/scrubbers,
-/obj/machinery/atmospherics/pipe/simple/hidden/scrubbers{
-	dir = 4
-	},
 /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers{
 	dir = 4
 	},

@@ -11978,7 +11978,6 @@
 /area/awaymission/diescraper/indoors/floor4)
 "Ip" = (
 /obj/structure/table/hardwoodtable,
-/obj/structure/table/hardwoodtable,
 /obj/random/pizzabox,
 /turf/simulated/floor/wood,
 /area/awaymission/diescraper/indoors/floor1)
